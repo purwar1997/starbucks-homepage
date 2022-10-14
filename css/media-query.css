@@ -29,6 +29,11 @@
 }
 
 @media (max-width: 900px) {
+  .navbar .container {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+
   .menu-left,
   .menu-right {
     display: none;
@@ -59,6 +64,10 @@
 }
 
 @media (max-width: 550px) {
+  h1 {
+    font-size: 30px;
+  }
+
   .navbar .container,
   footer .container {
     padding-left: 15px;
