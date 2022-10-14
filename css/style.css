@@ -176,7 +176,7 @@ section {
   opacity: 0.8;
 }
 
-/* Box */
+/* Box sections */
 .box .container > div {
   display: grid;
   grid-template-columns: 1fr 1fr;

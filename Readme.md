@@ -10,6 +10,6 @@ This project is a landing page for Starbucks website. It is created using HTML a
 
 ### Preview of the project :-
 
-![Preview](./preview.png)
+![Preview](<./previews/Screenshot%20(104).png>)
 
 ### [**Live link**](https://starbucks-landing-page-two.vercel.app/) of the project.
